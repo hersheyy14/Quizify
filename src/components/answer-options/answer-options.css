@@ -1,0 +1,14 @@
+.option-box {
+  display: flex;
+  justify-content: space-around;
+  gap: 2rem;
+}
+
+.answer-buttons {
+  width: 100%;
+}
+
+.answer-buttons.selected {
+  background-color: cadetblue;
+  color: white !important;
+}

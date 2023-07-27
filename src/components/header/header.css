@@ -1,0 +1,13 @@
+.header-container {
+  background-color: rgba(15, 165, 199, 0.777);
+  color: white;
+  min-height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-container a {
+  font-size: 2rem;
+  color: white;
+}
